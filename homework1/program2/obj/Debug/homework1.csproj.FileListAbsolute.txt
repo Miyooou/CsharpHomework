@@ -1,0 +1,9 @@
+F:\新建文件夹 (3)\新建文件夹\C#\homework1\homework1\bin\Debug\homework1.exe.config
+F:\新建文件夹 (3)\新建文件夹\C#\homework1\homework1\bin\Debug\homework1.exe
+F:\新建文件夹 (3)\新建文件夹\C#\homework1\homework1\bin\Debug\homework1.pdb
+F:\新建文件夹 (3)\新建文件夹\C#\homework1\homework1\obj\Debug\homework1.csprojAssemblyReference.cache
+F:\新建文件夹 (3)\新建文件夹\C#\homework1\homework1\obj\Debug\homework1.Properties.Resources.resources
+F:\新建文件夹 (3)\新建文件夹\C#\homework1\homework1\obj\Debug\homework1.csproj.GenerateResource.cache
+F:\新建文件夹 (3)\新建文件夹\C#\homework1\homework1\obj\Debug\homework1.csproj.CoreCompileInputs.cache
+F:\新建文件夹 (3)\新建文件夹\C#\homework1\homework1\obj\Debug\homework1.exe
+F:\新建文件夹 (3)\新建文件夹\C#\homework1\homework1\obj\Debug\homework1.pdb

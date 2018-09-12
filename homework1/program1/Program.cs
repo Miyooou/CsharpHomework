@@ -4,7 +4,7 @@ namespace homework1
 {
     static class Program1
     {
-        static void Main1(string[] args)
+        static void Main(string[] args)
         {
             string c = "";
             int a = 0;
