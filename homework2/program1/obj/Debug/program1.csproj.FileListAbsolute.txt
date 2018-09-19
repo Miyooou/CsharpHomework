@@ -1,0 +1,7 @@
+F:\新建文件夹 (3)\新建文件夹\C#\homework2\homework2\bin\Debug\homework2.exe.config
+F:\新建文件夹 (3)\新建文件夹\C#\homework2\homework2\bin\Debug\homework2.exe
+F:\新建文件夹 (3)\新建文件夹\C#\homework2\homework2\bin\Debug\homework2.pdb
+F:\新建文件夹 (3)\新建文件夹\C#\homework2\homework2\obj\Debug\program1.csprojAssemblyReference.cache
+F:\新建文件夹 (3)\新建文件夹\C#\homework2\homework2\obj\Debug\program1.csproj.CoreCompileInputs.cache
+F:\新建文件夹 (3)\新建文件夹\C#\homework2\homework2\obj\Debug\homework2.exe
+F:\新建文件夹 (3)\新建文件夹\C#\homework2\homework2\obj\Debug\homework2.pdb

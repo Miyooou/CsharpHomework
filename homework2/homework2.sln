@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "program1", "homework2\program1.csproj", "{F9AEB1E6-E31A-4E06-B925-E24C76BD1ABB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "program2", "program2\program2.csproj", "{C246A653-A253-4F24-80A6-777E6DB16085}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "program3", "program3\program3.csproj", "{437B2F68-08A0-4FC6-AFD0-3478418711DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9AEB1E6-E31A-4E06-B925-E24C76BD1ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9AEB1E6-E31A-4E06-B925-E24C76BD1ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9AEB1E6-E31A-4E06-B925-E24C76BD1ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9AEB1E6-E31A-4E06-B925-E24C76BD1ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C246A653-A253-4F24-80A6-777E6DB16085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C246A653-A253-4F24-80A6-777E6DB16085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C246A653-A253-4F24-80A6-777E6DB16085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C246A653-A253-4F24-80A6-777E6DB16085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{437B2F68-08A0-4FC6-AFD0-3478418711DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{437B2F68-08A0-4FC6-AFD0-3478418711DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{437B2F68-08A0-4FC6-AFD0-3478418711DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{437B2F68-08A0-4FC6-AFD0-3478418711DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AB19FF8-779B-4042-96BA-C3136C85068B}
+	EndGlobalSection
+EndGlobal
